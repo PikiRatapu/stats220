@@ -7,5 +7,6 @@
 ## Skills I have developed while creating this repository
 * Simple markdown coding skills
 * The ability to follow basic instructions
+* Demonstrate my [creativity](https://giphy.com/gifs/cat-cute-roomba-3iBcRAErFhFwoTVbN5) by researching different commands
 
 *By Piki*
