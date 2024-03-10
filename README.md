@@ -1,4 +1,5 @@
 # My Stats 220 Repository
+![alt text](https://www.callcentrehelper.com/images/stories/2010/01/stats-sheet-760.jpg)
 ## What is the purpose of this repository?
 1. To begin building a portfolio for myself, allowing me to demonstrate useful skills
 2. To make my work public and hopefully get useful feedback
